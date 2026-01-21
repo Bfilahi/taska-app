@@ -1,0 +1,6 @@
+[submodule "taska-frontend"]
+	path = taska-frontend
+	url = https://github.com/Bfilahi/taska-frontend.git
+[submodule "taska-backend"]
+	path = taska-backend
+	url = https://github.com/Bfilahi/taska-backend.git
